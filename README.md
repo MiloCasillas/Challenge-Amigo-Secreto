@@ -21,3 +21,23 @@ Funcionalidades:
 
   --  Número mínimo de nombres ingresados: Para hacer el sorteo, tendrán que estar registrados por lo menos 2 nombres. Se mostrará un mensaje si la condición no se cumple.
 
+
+
+### Para probar el proyecto, podrás: 
+
+#### Opción A: Ejecutar localmente 
+
+1. Descarga o clona este repositorio:
+
+   ```bash
+   git clone https://github.com/MiloCasillas/Challenge-Amigo-Secreto.git
+   ```
+
+2. Abre la carpeta del proyecto en Visual Studio Code.
+
+3. Dentro de Visual Studio Code, da clic derecho al archivo index.html y selecciona "Open with Live Server".
+        
+
+#### Opción B: Usar la versión en línea 
+
+También puedes acceder directamente al proyecto desplegado en GitHub Pages: [Amigo Secreto en línea](https://milocasillas.github.io/Challenge-Amigo-Secreto/)
